@@ -1,0 +1,15 @@
+D:\OOP\Lab 3\Clock_Type\bin\Debug\net7.0\Clock_Type.exe
+D:\OOP\Lab 3\Clock_Type\bin\Debug\net7.0\Clock_Type.deps.json
+D:\OOP\Lab 3\Clock_Type\bin\Debug\net7.0\Clock_Type.runtimeconfig.json
+D:\OOP\Lab 3\Clock_Type\bin\Debug\net7.0\Clock_Type.dll
+D:\OOP\Lab 3\Clock_Type\bin\Debug\net7.0\Clock_Type.pdb
+D:\OOP\Lab 3\Clock_Type\obj\Debug\net7.0\Clock_Type.csproj.AssemblyReference.cache
+D:\OOP\Lab 3\Clock_Type\obj\Debug\net7.0\Clock_Type.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\Lab 3\Clock_Type\obj\Debug\net7.0\Clock_Type.AssemblyInfoInputs.cache
+D:\OOP\Lab 3\Clock_Type\obj\Debug\net7.0\Clock_Type.AssemblyInfo.cs
+D:\OOP\Lab 3\Clock_Type\obj\Debug\net7.0\Clock_Type.csproj.CoreCompileInputs.cache
+D:\OOP\Lab 3\Clock_Type\obj\Debug\net7.0\Clock_Type.dll
+D:\OOP\Lab 3\Clock_Type\obj\Debug\net7.0\refint\Clock_Type.dll
+D:\OOP\Lab 3\Clock_Type\obj\Debug\net7.0\Clock_Type.pdb
+D:\OOP\Lab 3\Clock_Type\obj\Debug\net7.0\Clock_Type.genruntimeconfig.cache
+D:\OOP\Lab 3\Clock_Type\obj\Debug\net7.0\ref\Clock_Type.dll

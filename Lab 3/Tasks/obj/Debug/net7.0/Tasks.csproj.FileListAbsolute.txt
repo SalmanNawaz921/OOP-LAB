@@ -1,0 +1,15 @@
+D:\OOP\Lab 3\Tasks\bin\Debug\net7.0\Tasks.exe
+D:\OOP\Lab 3\Tasks\bin\Debug\net7.0\Tasks.deps.json
+D:\OOP\Lab 3\Tasks\bin\Debug\net7.0\Tasks.runtimeconfig.json
+D:\OOP\Lab 3\Tasks\bin\Debug\net7.0\Tasks.dll
+D:\OOP\Lab 3\Tasks\bin\Debug\net7.0\Tasks.pdb
+D:\OOP\Lab 3\Tasks\obj\Debug\net7.0\Tasks.csproj.AssemblyReference.cache
+D:\OOP\Lab 3\Tasks\obj\Debug\net7.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\Lab 3\Tasks\obj\Debug\net7.0\Tasks.AssemblyInfoInputs.cache
+D:\OOP\Lab 3\Tasks\obj\Debug\net7.0\Tasks.AssemblyInfo.cs
+D:\OOP\Lab 3\Tasks\obj\Debug\net7.0\Tasks.csproj.CoreCompileInputs.cache
+D:\OOP\Lab 3\Tasks\obj\Debug\net7.0\Tasks.dll
+D:\OOP\Lab 3\Tasks\obj\Debug\net7.0\refint\Tasks.dll
+D:\OOP\Lab 3\Tasks\obj\Debug\net7.0\Tasks.pdb
+D:\OOP\Lab 3\Tasks\obj\Debug\net7.0\Tasks.genruntimeconfig.cache
+D:\OOP\Lab 3\Tasks\obj\Debug\net7.0\ref\Tasks.dll

@@ -1,0 +1,73 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Task_1
+{
+    class Program
+    {
+        public static void Main(string[] args)
+        {
+            Students newStudent = new Students("Muhammad Salman", 138, 996, 1011, 141, "Lahore");
+            // Students merit = new Students(1011, 141);
+            Console.WriteLine(newStudent.calculateMerit());
+
+        }
+
+    }
+
+}
+//Student Class
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Task_1
+{
+    public class Students
+    {
+
+
+        public Students(string name, int roll, int mMarks, int fMarks, int eMarks, string home_town)
+        {
+            full_name = name;
+            roll_number = roll;
+            matricMarks = mMarks;
+            fscMarks = fMarks;
+            ecatMarks = eMarks;
+            homeTown = home_town;
+
+        }
+
+        public static string full_name = "";
+        public static int roll_number;
+        public int matricMarks;
+        public int fscMarks;
+        public int ecatMarks;
+        public static float cgpa;
+        public static string homeTown = "";
+        public static int current_semester;
+        public static bool isHostelte;
+        public static bool availingScholarship;
+        public Students(int fscMarks, int ecatMarks)
+        {
+            this.fscMarks = fscMarks;
+            this.ecatMarks = ecatMarks;
+        }
+        public float calculateMerit()
+        {
+            // float merit = (((60F * fscMarks / 100F) + (40F * ecatMarks / 100F)));
+            float merit = ((0.6F * fscMarks) + (0.4F * ecatMarks)) * 100F;
+            return merit;
+        }
+        public Students()
+        {
+
+        }
+    }
+
+}

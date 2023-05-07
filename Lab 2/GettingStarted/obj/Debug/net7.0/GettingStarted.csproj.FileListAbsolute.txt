@@ -1,0 +1,15 @@
+D:\OOP\GettingStarted\bin\Debug\net7.0\GettingStarted.exe
+D:\OOP\GettingStarted\bin\Debug\net7.0\GettingStarted.deps.json
+D:\OOP\GettingStarted\bin\Debug\net7.0\GettingStarted.runtimeconfig.json
+D:\OOP\GettingStarted\bin\Debug\net7.0\GettingStarted.dll
+D:\OOP\GettingStarted\bin\Debug\net7.0\GettingStarted.pdb
+D:\OOP\GettingStarted\obj\Debug\net7.0\GettingStarted.csproj.AssemblyReference.cache
+D:\OOP\GettingStarted\obj\Debug\net7.0\GettingStarted.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\GettingStarted\obj\Debug\net7.0\GettingStarted.AssemblyInfoInputs.cache
+D:\OOP\GettingStarted\obj\Debug\net7.0\GettingStarted.AssemblyInfo.cs
+D:\OOP\GettingStarted\obj\Debug\net7.0\GettingStarted.csproj.CoreCompileInputs.cache
+D:\OOP\GettingStarted\obj\Debug\net7.0\GettingStarted.dll
+D:\OOP\GettingStarted\obj\Debug\net7.0\refint\GettingStarted.dll
+D:\OOP\GettingStarted\obj\Debug\net7.0\GettingStarted.pdb
+D:\OOP\GettingStarted\obj\Debug\net7.0\GettingStarted.genruntimeconfig.cache
+D:\OOP\GettingStarted\obj\Debug\net7.0\ref\GettingStarted.dll
