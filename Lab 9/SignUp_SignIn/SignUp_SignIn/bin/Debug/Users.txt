@@ -1,0 +1,3 @@
+Salman,921,MANAGER
+Salman,921,MANAGER
+Tayyab Salman,091,CASHIER

@@ -1,0 +1,2 @@
+Juice,Drink,200
+Burger,Food,500

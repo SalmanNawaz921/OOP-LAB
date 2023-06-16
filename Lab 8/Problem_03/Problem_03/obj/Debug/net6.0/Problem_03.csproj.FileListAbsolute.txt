@@ -1,0 +1,15 @@
+D:\OOP\OOP LAB\Lab 8\Problem_03\Problem_03\bin\Debug\net6.0\Problem_03.exe
+D:\OOP\OOP LAB\Lab 8\Problem_03\Problem_03\bin\Debug\net6.0\Problem_03.deps.json
+D:\OOP\OOP LAB\Lab 8\Problem_03\Problem_03\bin\Debug\net6.0\Problem_03.runtimeconfig.json
+D:\OOP\OOP LAB\Lab 8\Problem_03\Problem_03\bin\Debug\net6.0\Problem_03.dll
+D:\OOP\OOP LAB\Lab 8\Problem_03\Problem_03\bin\Debug\net6.0\Problem_03.pdb
+D:\OOP\OOP LAB\Lab 8\Problem_03\Problem_03\obj\Debug\net6.0\Problem_03.csproj.AssemblyReference.cache
+D:\OOP\OOP LAB\Lab 8\Problem_03\Problem_03\obj\Debug\net6.0\Problem_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\OOP LAB\Lab 8\Problem_03\Problem_03\obj\Debug\net6.0\Problem_03.AssemblyInfoInputs.cache
+D:\OOP\OOP LAB\Lab 8\Problem_03\Problem_03\obj\Debug\net6.0\Problem_03.AssemblyInfo.cs
+D:\OOP\OOP LAB\Lab 8\Problem_03\Problem_03\obj\Debug\net6.0\Problem_03.csproj.CoreCompileInputs.cache
+D:\OOP\OOP LAB\Lab 8\Problem_03\Problem_03\obj\Debug\net6.0\Problem_03.dll
+D:\OOP\OOP LAB\Lab 8\Problem_03\Problem_03\obj\Debug\net6.0\refint\Problem_03.dll
+D:\OOP\OOP LAB\Lab 8\Problem_03\Problem_03\obj\Debug\net6.0\Problem_03.pdb
+D:\OOP\OOP LAB\Lab 8\Problem_03\Problem_03\obj\Debug\net6.0\Problem_03.genruntimeconfig.cache
+D:\OOP\OOP LAB\Lab 8\Problem_03\Problem_03\obj\Debug\net6.0\ref\Problem_03.dll

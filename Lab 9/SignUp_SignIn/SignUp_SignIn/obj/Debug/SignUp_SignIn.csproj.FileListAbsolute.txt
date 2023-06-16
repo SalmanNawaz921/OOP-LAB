@@ -1,0 +1,12 @@
+D:\OOP\OOP LAB\Lab 9\SignUp_SignIn\SignUp_SignIn\obj\Debug\SignUp_SignIn.csproj.AssemblyReference.cache
+D:\OOP\OOP LAB\Lab 9\SignUp_SignIn\SignUp_SignIn\obj\Debug\SignUp_SignIn.csproj.SuggestedBindingRedirects.cache
+D:\OOP\OOP LAB\Lab 9\SignUp_SignIn\SignUp_SignIn\obj\Debug\SignUp_SignIn.frm_SignUp.resources
+D:\OOP\OOP LAB\Lab 9\SignUp_SignIn\SignUp_SignIn\obj\Debug\SignUp_SignIn.Properties.Resources.resources
+D:\OOP\OOP LAB\Lab 9\SignUp_SignIn\SignUp_SignIn\obj\Debug\SignUp_SignIn.csproj.GenerateResource.cache
+D:\OOP\OOP LAB\Lab 9\SignUp_SignIn\SignUp_SignIn\obj\Debug\SignUp_SignIn.csproj.CoreCompileInputs.cache
+D:\OOP\OOP LAB\Lab 9\SignUp_SignIn\SignUp_SignIn\bin\Debug\SignUp_SignIn.exe.config
+D:\OOP\OOP LAB\Lab 9\SignUp_SignIn\SignUp_SignIn\bin\Debug\SignUp_SignIn.exe
+D:\OOP\OOP LAB\Lab 9\SignUp_SignIn\SignUp_SignIn\bin\Debug\SignUp_SignIn.pdb
+D:\OOP\OOP LAB\Lab 9\SignUp_SignIn\SignUp_SignIn\obj\Debug\SignUp_SignIn.exe
+D:\OOP\OOP LAB\Lab 9\SignUp_SignIn\SignUp_SignIn\obj\Debug\SignUp_SignIn.pdb
+D:\OOP\OOP LAB\Lab 9\SignUp_SignIn\SignUp_SignIn\obj\Debug\SignUp_SignIn.frm_login.resources

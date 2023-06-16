@@ -1,0 +1,11 @@
+D:\OOP\OOP LAB\Lab 9\Task_1\Task_1\bin\Debug\Task_1.exe.config
+D:\OOP\OOP LAB\Lab 9\Task_1\Task_1\bin\Debug\Task_1.exe
+D:\OOP\OOP LAB\Lab 9\Task_1\Task_1\bin\Debug\Task_1.pdb
+D:\OOP\OOP LAB\Lab 9\Task_1\Task_1\obj\Debug\Task_1.csproj.AssemblyReference.cache
+D:\OOP\OOP LAB\Lab 9\Task_1\Task_1\obj\Debug\Task_1.csproj.SuggestedBindingRedirects.cache
+D:\OOP\OOP LAB\Lab 9\Task_1\Task_1\obj\Debug\Task_1.Form1.resources
+D:\OOP\OOP LAB\Lab 9\Task_1\Task_1\obj\Debug\Task_1.Properties.Resources.resources
+D:\OOP\OOP LAB\Lab 9\Task_1\Task_1\obj\Debug\Task_1.csproj.GenerateResource.cache
+D:\OOP\OOP LAB\Lab 9\Task_1\Task_1\obj\Debug\Task_1.csproj.CoreCompileInputs.cache
+D:\OOP\OOP LAB\Lab 9\Task_1\Task_1\obj\Debug\Task_1.exe
+D:\OOP\OOP LAB\Lab 9\Task_1\Task_1\obj\Debug\Task_1.pdb

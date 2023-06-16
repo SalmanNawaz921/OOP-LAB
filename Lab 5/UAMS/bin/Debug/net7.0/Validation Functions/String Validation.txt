@@ -1,0 +1,23 @@
+  public static string NameValidation()
+        {
+            string name = Console.ReadLine();
+            bool invalid = false;
+            while (invalid || string.IsNullOrWhiteSpace(name))
+            {
+                invalid = false;
+                for (int i = 0; i < name.Length; i++)
+                {
+                    if (!Char.IsLetter(name[i]) && name[i] != ' ')
+                    {
+                        invalid = true;
+                        break;
+                    }
+                }
+                if (invalid || string.IsNullOrWhiteSpace(name))
+                {
+                    Console.Write("\t\t\t\t\t   ENTER VALID PRODUCT NAME: ");
+                    name = Console.ReadLine();
+                }
+            }
+            return name;
+        }

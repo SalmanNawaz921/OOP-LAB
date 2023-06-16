@@ -1,0 +1,30 @@
+D:\OOP\Lab 3\Challange_2\bin\Debug\net7.0\Challange_2.exe
+D:\OOP\Lab 3\Challange_2\bin\Debug\net7.0\Challange_2.deps.json
+D:\OOP\Lab 3\Challange_2\bin\Debug\net7.0\Challange_2.runtimeconfig.json
+D:\OOP\Lab 3\Challange_2\bin\Debug\net7.0\Challange_2.dll
+D:\OOP\Lab 3\Challange_2\bin\Debug\net7.0\Challange_2.pdb
+D:\OOP\Lab 3\Challange_2\obj\Debug\net7.0\Challange_2.csproj.AssemblyReference.cache
+D:\OOP\Lab 3\Challange_2\obj\Debug\net7.0\Challange_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\Lab 3\Challange_2\obj\Debug\net7.0\Challange_2.AssemblyInfoInputs.cache
+D:\OOP\Lab 3\Challange_2\obj\Debug\net7.0\Challange_2.AssemblyInfo.cs
+D:\OOP\Lab 3\Challange_2\obj\Debug\net7.0\Challange_2.csproj.CoreCompileInputs.cache
+D:\OOP\Lab 3\Challange_2\obj\Debug\net7.0\Challange_2.dll
+D:\OOP\Lab 3\Challange_2\obj\Debug\net7.0\refint\Challange_2.dll
+D:\OOP\Lab 3\Challange_2\obj\Debug\net7.0\Challange_2.pdb
+D:\OOP\Lab 3\Challange_2\obj\Debug\net7.0\Challange_2.genruntimeconfig.cache
+D:\OOP\Lab 3\Challange_2\obj\Debug\net7.0\ref\Challange_2.dll
+D:\OOP\OOP LAB\Lab 5\Challange_02\bin\Debug\net7.0\Challange_2.exe
+D:\OOP\OOP LAB\Lab 5\Challange_02\bin\Debug\net7.0\Challange_2.deps.json
+D:\OOP\OOP LAB\Lab 5\Challange_02\bin\Debug\net7.0\Challange_2.runtimeconfig.json
+D:\OOP\OOP LAB\Lab 5\Challange_02\bin\Debug\net7.0\Challange_2.dll
+D:\OOP\OOP LAB\Lab 5\Challange_02\bin\Debug\net7.0\Challange_2.pdb
+D:\OOP\OOP LAB\Lab 5\Challange_02\obj\Debug\net7.0\Challange_2.csproj.AssemblyReference.cache
+D:\OOP\OOP LAB\Lab 5\Challange_02\obj\Debug\net7.0\Challange_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\OOP LAB\Lab 5\Challange_02\obj\Debug\net7.0\Challange_2.AssemblyInfoInputs.cache
+D:\OOP\OOP LAB\Lab 5\Challange_02\obj\Debug\net7.0\Challange_2.AssemblyInfo.cs
+D:\OOP\OOP LAB\Lab 5\Challange_02\obj\Debug\net7.0\Challange_2.csproj.CoreCompileInputs.cache
+D:\OOP\OOP LAB\Lab 5\Challange_02\obj\Debug\net7.0\Challange_2.dll
+D:\OOP\OOP LAB\Lab 5\Challange_02\obj\Debug\net7.0\refint\Challange_2.dll
+D:\OOP\OOP LAB\Lab 5\Challange_02\obj\Debug\net7.0\Challange_2.pdb
+D:\OOP\OOP LAB\Lab 5\Challange_02\obj\Debug\net7.0\Challange_2.genruntimeconfig.cache
+D:\OOP\OOP LAB\Lab 5\Challange_02\obj\Debug\net7.0\ref\Challange_2.dll
